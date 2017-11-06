@@ -4,6 +4,7 @@ This is a very much alpha quality library I developed originally for playing aro
 
 # Dependencies
 
+* [cffi](https://common-lisp.net/project/cffi/)
 * [HIDApi](https://github.com/signal11/hidapi)
 * [win32](https://github.com/Zulu-Inuoe/win32)
 
